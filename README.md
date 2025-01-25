@@ -8,7 +8,7 @@ A smart liquid dispenser dispenses liquid specified in application and it fetche
 - L298N Motor Driver
 - 5V Water Uni-Directional Pump
 - Flow Sensor
-- 12K and 8k resistor
+- 12K and 8k resistors
 - Power Supply (12V, 5V) 
 
 ## Pin-out configuration:
