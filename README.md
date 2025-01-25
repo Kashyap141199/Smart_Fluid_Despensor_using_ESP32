@@ -9,7 +9,7 @@ A smart liquid dispenser dispenses liquid specified in application and it fetche
 - 5V Water Uni-Directional Pump
 - Flow Sensor
 - 12K and 8k resistor
-- Power Supply (12V, 5V)
+- Power Supply (12V, 5V) 
 
 ## Pin-out configuration:
 
